@@ -1,0 +1,21 @@
+/* .align ListGroup{
+    display: table-row;
+}
+.align ul li
+{
+    display: table-cell;
+    height: 100px;
+    list-style-type: none;
+    margin: 10px;
+    vertical-align: middle;
+}
+.align ul li  {
+    display:table-cell;
+    vertical-align: middle;
+    height:100px;
+    border: solid 1px black;
+}
+.align ul li.button a {
+    height:50px;
+    border: solid 1px black;
+} */
